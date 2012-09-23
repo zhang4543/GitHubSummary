@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #################
 ## Eclipse
 #################
@@ -161,3 +162,20 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+=======
+progit.*.pdf
+progit.*.mobi
+progit.*.epub
+progit.*.html
+progit-*.epub
+*.swp
+latex/*
+!latex/makepdf
+!latex/README
+!latex/template.tex
+!latex/config.yml
+epub/temp
+*~
+.#*
+figures/*
+>>>>>>> 92feb6631b83bd9ec52b4f9d81d6f4ff528c4e0b
